@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NadmanKhan)
+![GitHub stats](https://github-readme-stats-three-dun-45.vercel.app/api?username=NadmanKhan)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadmanKhan&layout=compact&langs_count=8&hide=cmake,qmake,qml,html,css,tex,hack)
+![Top Langs](https://github-readme-stats-three-dun-45.vercel.app/api/top-langs/?username=NadmanKhan&layout=compact&langs_count=8&hide=cmake,qmake,qml,html,css,tex,hack)
 
 <!--
 **NadmanKhan/NadmanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
